@@ -1,5 +1,6 @@
 {
     "name": "code2stl",
+    "version": "0.0.1",
     "description": "Transform a source code file into a 3D STL",
     "author": "Samy Pesse <samypesse@gmail.com>",
     "keywords": [
