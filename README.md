@@ -11,6 +11,8 @@ Fear no more, code is now beautiful thanks to our patent pending, world class 3d
 
 3D code is the salvation programmers have been waiting for, wait no more and join the future by using **code2stl**, and awesome **brogramming** !!!
 
+This is a highly profitable venture, many high profile companies are trying to own this market, it's not a coincidence if GitHub [launched their STL viewer](https://github.com/blog/1465-stl-file-viewing).
+
 ![Image](https://raw.github.com/SamyPesse/code2stl/master/images/meme1.jpg)
 
 ## Examples:
