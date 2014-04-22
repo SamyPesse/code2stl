@@ -1,0 +1,20 @@
+{
+    "name": "3dcode",
+    "main": "./lib/index.js",
+    "dependencies": {
+        "q": "1.0.1",
+        "lodash": "2.4.1",
+        "commander": "2.2.0",
+        "stl": "0.1.2",
+        "highlights": "0.10.0",
+        "cheerio": "0.15.0",
+        "ndarray-pack": "1.1.1",
+        "bitmap-to-boxes": "0.0.0"
+    },
+    "bin": {
+        "3dcode": "./bin/3dcode.js"
+    },
+    "scripts": {
+        "test": "./bin/3dcode.js --input=./test/hello.js"
+    }
+}
