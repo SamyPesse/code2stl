@@ -6,8 +6,6 @@
         "lodash": "2.4.1",
         "commander": "2.2.0",
         "stl": "0.1.2",
-        "highlights": "0.10.0",
-        "cheerio": "0.15.0",
         "ndarray-pack": "1.1.1",
         "bitmap-to-boxes": "0.0.0",
         "face-normals": "0.0.0"
