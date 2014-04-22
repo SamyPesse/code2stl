@@ -14,7 +14,7 @@ program
     .parse(process.argv);
 
 if (!program.input) {
-    console.log("Need an inpt file with --input");
+    console.log("Need an input!");
     process.exit(-1);
 }
 
@@ -22,7 +22,7 @@ program.output = program.output || program.input.replace(path.extname(program.in
 
 generate.file(program.input, program.output)
 .then(function() {
-    console.log("Finished!");
+    console.log("Done!");
 }, function(err) {
     console.log(err.stack || err);
 });

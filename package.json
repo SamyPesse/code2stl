@@ -11,9 +11,9 @@
         "face-normals": "0.0.0"
     },
     "bin": {
-        "3dcode": "./bin/3dcode.js"
+        "code2stl": "./bin/convert.js"
     },
     "scripts": {
-        "test": "./bin/3dcode.js --input=./test/hello.js"
+        "test": "./convertall.sh"
     }
 }
