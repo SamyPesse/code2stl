@@ -1,5 +1,11 @@
 {
-    "name": "3dcode",
+    "name": "code2stl",
+    "description": "Transform a source code file into a 3D STL",
+    "author": "Samy Pesse <samypesse@gmail.com>",
+    "keywords": [
+        "3D", "stl"
+    ],
+    "homepage": "https://github.com/SamyPesse/code2stl",
     "main": "./lib/index.js",
     "dependencies": {
         "q": "1.0.1",
