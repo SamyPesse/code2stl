@@ -5,16 +5,7 @@ var bitmapToStl = require("./lib/bitmap").toStl;
 var textToBitmap = require("./lib/text").textToBitmap;
 
 
-var image = textToBitmap("Hello");
-
-/*[
-  [1, 1, 0, 0, 0, 1],
-  [0, 1, 1, 1, 0, 1],
-  [0, 1, 0, 1, 0, 1],
-  [0, 1, 1, 1, 1, 1],
-  [1, 1, 1, 1, 1, 1],
-  [1, 1, 1, 0, 0, 1]
-];*/
+var image = textToBitmap("Hello\nWorld");
 
 var boxes = bitmapToStl(image);
 
