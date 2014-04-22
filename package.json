@@ -9,7 +9,8 @@
         "highlights": "0.10.0",
         "cheerio": "0.15.0",
         "ndarray-pack": "1.1.1",
-        "bitmap-to-boxes": "0.0.0"
+        "bitmap-to-boxes": "0.0.0",
+        "face-normals": "0.0.0"
     },
     "bin": {
         "3dcode": "./bin/3dcode.js"
