@@ -18,7 +18,7 @@ var image = textToBitmap("Hello");
 
 var boxes = bitmapToStl(image);
 
-fs.writeFileSync('ascii.stl', stl.fromObject({
+fs.writeFileSync('test.stl', stl.fromObject({
     description: "test",
     facets: boxes
 }));
