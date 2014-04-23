@@ -1,7 +1,7 @@
 Code2STL
 ======
 
-Lets be honest, coding has always been quite boring, staring at screens of old 2D pages of code, ..., now with code2stl, a Revolution is coming, 3d code like you’ve never seen it before.
+Lets be honest, programming has always been quite boring, staring at plain old 2D pages of code ..., now with `code2stl`, a **Revolution** is coming, **3D** code like you’ve never seen it before !
 
 ![Image](https://raw.github.com/SamyPesse/code2stl/master/images/preview.png)
 
